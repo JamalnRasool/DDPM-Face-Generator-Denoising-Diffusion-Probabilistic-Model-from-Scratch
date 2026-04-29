@@ -1,12 +1,3 @@
----
-title: DDPM Face Generator
-colorFrom: blue
-colorTo: purple
-sdk: gradio
-sdk_version: 4.0.0
-app_file: app.py
-pinned: false
----
 # DDPM Face Generator 
 
 A Denoising Diffusion Probabilistic Model (DDPM) built from scratch using pure PyTorch, trained on the CelebA-HQ dataset to generate human faces.
@@ -47,3 +38,7 @@ This model starts from pure random noise and gradually denoises it over 300 time
 
 - Jamal Rasool
 - Umar Zahoor
+
+## Link
+https://huggingface.co/spaces/rek49/genaiass4
+
